@@ -3,7 +3,7 @@
 # =============== #
 Temp/
 Library/
- 
+
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
@@ -18,7 +18,7 @@ obj/
 *.user
 *.unityproj
 *.booproj
- 
+
 # ============ #
 # OS generated #
 # ============ #
@@ -29,3 +29,10 @@ obj/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# ============ #
+# My Ignored #
+# ============ #
+/Assets/Textures
+/Assets/Scenes
+/Assets/*.meta
